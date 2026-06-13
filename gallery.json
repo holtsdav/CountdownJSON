@@ -1,0 +1,49 @@
+{
+  "folders" : [
+    {
+      "colorHex" : "#FF6B6B",
+      "emoji" : "🎉",
+      "presets" : [
+        {
+          "colorHex" : "#FF6B6B",
+          "emoji" : "🎄",
+          "repeatMode" : "yearly",
+          "targetDate" : "2026-12-24T23:00:00Z",
+          "title" : "Christmas"
+        },
+        {
+          "colorHex" : "#F06292",
+          "emoji" : "💝",
+          "repeatMode" : "yearly",
+          "targetDate" : "2027-02-13T23:00:00Z",
+          "title" : "Valentine's Day"
+        },
+        {
+          "colorHex" : "#FFB347",
+          "emoji" : "🎃",
+          "repeatMode" : "yearly",
+          "targetDate" : "2026-10-30T23:00:00Z",
+          "title" : "Halloween"
+        },
+        {
+          "colorHex" : "#4FC3F7",
+          "emoji" : "☀️",
+          "repeatMode" : "yearly",
+          "targetDate" : "2027-06-20T22:00:00Z",
+          "title" : "Summer Solstice"
+        },
+        {
+          "colorHex" : "#BA68C8",
+          "emoji" : "🦃",
+          "repeatMode" : "yearly",
+          "targetDate" : "2026-11-25T23:00:00Z",
+          "title" : "Thanksgiving"
+        }
+      ],
+      "title" : "Holidays"
+    }
+  ],
+  "standaloneEvents" : [
+
+  ]
+}
