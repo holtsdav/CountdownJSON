@@ -41,17 +41,34 @@
         }
       ],
       "title" : "Holidays"
+    },
+    {
+      "colorHex" : "#BA68C8",
+      "emoji" : "🎮",
+      "presets" : [
+        {
+          "colorHex" : "#BA68C8",
+          "createdAt" : "2023-12-05T00:00:00",
+          "emoji" : "🎮",
+          "repeatMode" : "none",
+          "targetDate" : "2026-11-19T01:00:00",
+          "timeZone" : "Europe\/Berlin",
+          "title" : "Grand Theft Auto VI"
+        },
+        {
+          "colorHex" : "#BA68C8",
+          "createdAt" : "2026-06-13T23:10:57",
+          "emoji" : "🎮",
+          "repeatMode" : "none",
+          "targetDate" : "2027-02-23T01:00:00",
+          "timeZone" : "Europe\/Berlin",
+          "title" : "Fable"
+        }
+      ],
+      "title" : "Games"
     }
   ],
   "standaloneEvents" : [
-    {
-      "colorHex" : "#BA68C8",
-      "createdAt" : "2023-12-05T00:00:00",
-      "emoji" : "🎮",
-      "repeatMode" : "none",
-      "targetDate" : "2026-11-19T01:00:00",
-      "timeZone" : "Europe\/Berlin",
-      "title" : "Grand Theft Auto VI"
-    }
+
   ]
 }
