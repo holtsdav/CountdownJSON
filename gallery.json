@@ -74,6 +74,14 @@
       "targetDate" : "2026-06-15T00:41:00",
       "timeZone" : "Floating",
       "title" : "Test"
+    },
+    {
+      "colorHex" : "#FF6B6B",
+      "emoji" : "⭐️",
+      "repeatMode" : "none",
+      "targetDate" : "2026-06-14T00:56:00",
+      "timeZone" : "Floating",
+      "title" : "Wow"
     }
   ]
 }
