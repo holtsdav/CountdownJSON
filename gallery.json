@@ -66,6 +66,13 @@
           "repeatMode" : "yearly",
           "targetDate" : "2027-06-07T17:00:00Z",
           "title" : "WWDC 27"
+        },
+        {
+          "colorHex" : "#FF6B6B",
+          "emoji" : "⭐️",
+          "repeatMode" : "none",
+          "targetDate" : "2026-06-14T21:53:00Z",
+          "title" : "W"
         }
       ],
       "title" : "Tech Events"
