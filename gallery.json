@@ -47,11 +47,11 @@
       "emoji" : "🚀",
       "presets" : [
         {
-          "colorHex" : "#073B4C",
+          "colorHex" : "#118AB2",
           "emoji" : "🚀",
           "repeatMode" : "none",
           "targetDate" : "2026-12-31T00:00:00Z",
-          "title" : "Eris-1 | Flight Two"
+          "title" : "Eris-1 | Flight Two 1"
         }
       ],
       "title" : "Space"
