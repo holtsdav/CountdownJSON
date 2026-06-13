@@ -44,6 +44,12 @@
     }
   ],
   "standaloneEvents" : [
-
+    {
+      "colorHex" : "#073B4C",
+      "emoji" : "🚀",
+      "repeatMode" : "none",
+      "targetDate" : "2026-12-31T00:00:00Z",
+      "title" : "Eris-1 | Flight Two"
+    }
   ]
 }
