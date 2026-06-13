@@ -61,19 +61,20 @@
           "targetDate" : "2026-06-14T16:00:00",
           "timeZone" : "Europe\/Berlin",
           "title" : "Falcon 9 Block 5 | Starlink Group 17-54"
+        },
+        {
+          "colorHex" : "#FFB347",
+          "emoji" : "⭐️",
+          "repeatMode" : "none",
+          "targetDate" : "2026-06-15T00:41:00",
+          "timeZone" : "Floating",
+          "title" : "Test"
         }
       ],
       "title" : "Space"
     }
   ],
   "standaloneEvents" : [
-    {
-      "colorHex" : "#FFB347",
-      "emoji" : "⭐️",
-      "repeatMode" : "none",
-      "targetDate" : "2026-06-15T00:41:00",
-      "timeZone" : "Floating",
-      "title" : "Test"
-    }
+
   ]
 }
