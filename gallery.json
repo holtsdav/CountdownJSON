@@ -55,6 +55,20 @@
         }
       ],
       "title" : "Space"
+    },
+    {
+      "colorHex" : "#43D9AD",
+      "emoji" : "🖥️",
+      "presets" : [
+        {
+          "colorHex" : "#4FC3F7",
+          "emoji" : "💻",
+          "repeatMode" : "yearly",
+          "targetDate" : "2027-06-07T17:00:00Z",
+          "title" : "WWDC 27"
+        }
+      ],
+      "title" : "Tech Events"
     }
   ],
   "standaloneEvents" : [
