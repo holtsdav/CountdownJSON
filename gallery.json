@@ -52,6 +52,15 @@
           "repeatMode" : "none",
           "targetDate" : "2026-12-31T00:00:00",
           "title" : "Eris-1 | Flight Two 1"
+        },
+        {
+          "colorHex" : "#FF6B6B",
+          "createdAt" : "2026-06-13T22:30:38",
+          "emoji" : "🚀",
+          "repeatMode" : "none",
+          "targetDate" : "2026-06-14T16:00:00",
+          "timeZone" : "Europe\/Berlin",
+          "title" : "Falcon 9 Block 5 | Starlink Group 17-54"
         }
       ],
       "title" : "Space"
