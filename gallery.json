@@ -56,6 +56,15 @@
           "targetDate" : "2027-02-23T01:00:00",
           "timeZone" : "Europe\/Berlin",
           "title" : "Fable"
+        },
+        
+          "colorHex" : "#BA68C8",
+          "createdAt" : "2026-06-07T16:10:00",
+          "emoji" : "🎮",
+          "repeatMode" : "none",
+          "targetDate" : "2027-02-23T01:00:00",
+          "timeZone" : "Europe\/Berlin",
+          "title" : "Fable 2"
         }
       ],
       "title" : "Games"
