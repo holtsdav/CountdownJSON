@@ -84,5 +84,14 @@
       ]
     }
   ],
-  "standaloneEvents": []
+  "standaloneEvents": [
+    {
+      "title": "Test",
+      "emoji": "🎯",
+      "colorHex": "#6C63FF",
+      "targetDate": "2026-06-17T16:34:00Z",
+      "repeatMode": "none",
+      "timeZone": "Europe/Berlin"
+    }
+  ]
 }
