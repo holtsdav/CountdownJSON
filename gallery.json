@@ -66,7 +66,7 @@
       "title": "WWDC 27",
       "emoji": "💻",
       "colorHex": "#6C63FF",
-      "targetDate": "2026-06-08T17:00:00.000Z",
+      "targetDate": "2026-06-08T17:00:00Z",
       "repeatMode": "yearly",
       "timeZone": "Europe/Berlin"
     }
