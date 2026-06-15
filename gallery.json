@@ -62,8 +62,8 @@
     },
     {
       "title": "Tech Events",
-      "emoji": "📁",
-      "colorHex": "#5e7fc7",
+      "emoji": "🖥️",
+      "colorHex": "#4FC3F7",
       "presets": [
         {
           "title": "Google I/O",
