@@ -69,6 +69,14 @@
       "targetDate": "2026-06-08T19:00:00Z",
       "repeatMode": "yearly",
       "timeZone": "Europe/Berlin"
+    },
+    {
+      "title": "Google I/O",
+      "emoji": "🤖",
+      "colorHex": "#FF6B6B",
+      "targetDate": "2026-05-19T19:00:00Z",
+      "repeatMode": "yearly",
+      "timeZone": "Europe/Berlin"
     }
   ]
 }
