@@ -59,24 +59,30 @@
         }
       ],
       "title": "Games"
-    }
-  ],
-  "standaloneEvents": [
-    {
-      "title": "WWDC 27",
-      "emoji": "💻",
-      "colorHex": "#6C63FF",
-      "targetDate": "2026-06-08T19:00:00Z",
-      "repeatMode": "yearly",
-      "timeZone": "Europe/Berlin"
     },
     {
-      "title": "Google I/O",
-      "emoji": "🤖",
-      "colorHex": "#FF6B6B",
-      "targetDate": "2026-05-19T19:00:00Z",
-      "repeatMode": "yearly",
-      "timeZone": "Europe/Berlin"
+      "title": "Tech Events",
+      "emoji": "📁",
+      "colorHex": "#c4bb00",
+      "presets": [
+        {
+          "title": "Google I/O",
+          "emoji": "🤖",
+          "colorHex": "#FF6B6B",
+          "targetDate": "2026-05-19T19:00:00Z",
+          "repeatMode": "yearly",
+          "timeZone": "Europe/Berlin"
+        },
+        {
+          "title": "WWDC 27",
+          "emoji": "💻",
+          "colorHex": "#6C63FF",
+          "targetDate": "2026-06-08T19:00:00Z",
+          "repeatMode": "yearly",
+          "timeZone": "Europe/Berlin"
+        }
+      ]
     }
-  ]
+  ],
+  "standaloneEvents": []
 }
