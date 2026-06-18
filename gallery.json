@@ -17,21 +17,33 @@
           "emoji": "💝",
           "repeatMode": "yearly",
           "targetDate": "2027-02-13T23:00:00",
-          "title": "Valentine's Day"
+          "title": "Valentine's Day",
+          "imageURL": "https://images.unsplash.com/photo-1518709779341-56cf4535e94b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5Nzg0MTN8MHwxfHNlYXJjaHw2fHxWYWxlbnRpbmUlMjdzJTIwRGF5fGVufDB8fHx8MTc4MTc4ODQyMXww&ixlib=rb-4.1.0&q=80&w=1080",
+          "unsplashAuthorName": "Sidney Pearce"
         },
         {
           "emoji": "🎃",
           "repeatMode": "yearly",
           "targetDate": "2026-10-30T23:00:00",
-          "title": "Halloween"
+          "title": "Halloween",
+          "imageURL": "https://images.unsplash.com/photo-1571931468289-38ebb2c5a1c2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5Nzg0MTN8MHwxfHNlYXJjaHwxMXx8SGFsbG93ZWVufGVufDB8fHx8MTc4MTc4ODQ1N3ww&ixlib=rb-4.1.0&q=80&w=1080",
+          "unsplashAuthorName": "Rick Monteiro",
+          "imageOffsetX": 0,
+          "imageScale": 1
         },
         {
           "emoji": "🦃",
           "repeatMode": "yearly",
           "targetDate": "2026-11-25T23:00:00",
-          "title": "Thanksgiving"
+          "title": "Thanksgiving",
+          "imageURL": "https://images.unsplash.com/photo-1576723658639-513237fdd520?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5Nzg0MTN8MHwxfHNlYXJjaHwyMHx8YW1lcmljYXxlbnwwfHx8fDE3ODE3ODg1ODB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+          "unsplashAuthorName": "Renan Kamikoga",
+          "imageScale": 1.57,
+          "imageOffsetY": 0.07
         }
-      ]
+      ],
+      "imageURL": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5Nzg0MTN8MHwxfHNlYXJjaHwyfHxCZWFjaHxlbnwwfHx8fDE3ODE3ODgzOTl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "unsplashAuthorName": "Sean Oulashin"
     },
     {
       "emoji": "🎮",
@@ -50,7 +62,9 @@
           "imageOffsetY": 0,
           "imageScale": 1
         }
-      ]
+      ],
+      "imageURL": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5Nzg0MTN8MHwxfHNlYXJjaHw2fHxHYW1pbmd8ZW58MHx8fHwxNzgxNzg4NjgyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "unsplashAuthorName": "Lorenzo Herrera"
     },
     {
       "title": "Tech",
@@ -61,16 +75,27 @@
           "emoji": "🤖",
           "targetDate": "2026-05-19T19:00:00Z",
           "repeatMode": "yearly",
-          "timeZone": "Europe/Berlin"
+          "timeZone": "Europe/Berlin",
+          "imageURL": "https://retail-news.de/wp-content/uploads/2025/05/Logo-der-Google-IO-Konferenz.jpg",
+          "imageOffsetY": -0.09,
+          "imageScale": 1.26,
+          "imageOffsetX": 0
         },
         {
           "title": "Apple WWDC",
           "emoji": "💻",
           "targetDate": "2026-06-08T19:00:00Z",
           "repeatMode": "yearly",
-          "timeZone": "Europe/Berlin"
+          "timeZone": "Europe/Berlin",
+          "imageURL": "https://images.unsplash.com/photo-1718964894957-c2eef52722da?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5Nzg0MTN8MHwxfHNlYXJjaHwyfHxBcHBsZSUyMFBhcmt8ZW58MHx8fHwxNzgxNzg4OTg2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+          "unsplashAuthorName": "Artem Horovenko"
         }
-      ]
+      ],
+      "imageURL": "https://images.unsplash.com/photo-1518770660439-4636190af475?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5Nzg0MTN8MHwxfHNlYXJjaHwxM3x8VGVjaHxlbnwwfHx8fDE3ODE3ODg3MTd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "unsplashAuthorName": "Alexandre Debiève",
+      "imageScale": 1,
+      "imageOffsetY": 0,
+      "imageOffsetX": 0
     }
   ],
   "standaloneEvents": []
