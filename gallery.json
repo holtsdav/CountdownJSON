@@ -39,7 +39,8 @@
           "repeatMode": "none",
           "targetDate": "2026-11-19T01:00:00Z",
           "timeZone": "Europe/Berlin",
-          "title": "GTA VI"
+          "title": "GTA VI",
+          "colorHex": "#6C63FF"
         }
       ],
       "title": "Games"
