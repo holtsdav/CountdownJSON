@@ -7,8 +7,11 @@
         {
           "emoji": "🎄",
           "repeatMode": "yearly",
-          "targetDate": "2026-12-24T23:00:00",
-          "title": "Christmas"
+          "targetDate": "2026-12-25T00:00:00",
+          "title": "Christmas",
+          "imageURL": "https://images.unsplash.com/photo-1543589077-47d81606c1bf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5Nzg0MTN8MHwxfHNlYXJjaHwxNnx8Q2hyaXN0bWFzfGVufDB8fHx8MTc4MTc0NjQzMnww&ixlib=rb-4.1.0&q=80&w=1080",
+          "unsplashAuthorName": "Annie Spratt",
+          "timeZone": "Floating"
         },
         {
           "emoji": "💝",
