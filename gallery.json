@@ -1,5 +1,17 @@
 {
   "folders": [],
-  "standaloneEvents": [],
+  "standaloneEvents": [
+    {
+      "title": "Test",
+      "emoji": "🤪",
+      "createdAt": "2026-05-06T13:11:00",
+      "targetDate": "2026-08-23T11:11:00.000Z",
+      "repeatMode": "none",
+      "timeMode": "absolute",
+      "imageURL": "https://images.unsplash.com/photo-1554629947-334ff61d85dc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5Nzg0MTN8MHwxfHNlYXJjaHwyfHxNb3VudGFpbnxlbnwwfHx8fDE3ODM2ODIwODd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "unsplashAuthorName": "Mads Schmidt Rasmussen",
+      "unsplashProfileURL": "https://unsplash.com/@mvds?utm_source=Glassdays&utm_medium=referral"
+    }
+  ],
   "schemaVersion": 2
 }
