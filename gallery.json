@@ -1,5 +1,26 @@
 {
-  "folders": [],
+  "folders": [
+    {
+      "title": "Test",
+      "emoji": "📁",
+      "presets": [
+        {
+          "title": "New Event",
+          "emoji": "🎯",
+          "createdAt": "2026-07-10T16:50:00",
+          "targetDate": "2026-08-09T16:50:00",
+          "repeatMode": "none",
+          "timeMode": "local",
+          "imageURL": "https://images.unsplash.com/photo-1606326608690-4e0281b1e588?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5Nzg0MTN8MHwxfHNlYXJjaHwzfHxUZXN0fGVufDB8fHx8MTc4MzY5NDk4OHww&ixlib=rb-4.1.0&q=80&w=1080",
+          "unsplashAuthorName": "Nguyen Dang Hoang Nhu",
+          "unsplashProfileURL": "https://unsplash.com/@nguyendhn?utm_source=Glassdays&utm_medium=referral"
+        }
+      ],
+      "imageURL": "https://images.unsplash.com/photo-1606326608606-aa0b62935f2b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5Nzg0MTN8MHwxfHNlYXJjaHwxfHxUZXN0fGVufDB8fHx8MTc4MzY5NDk4OHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "unsplashAuthorName": "Nguyen Dang Hoang Nhu",
+      "unsplashProfileURL": "https://unsplash.com/@nguyendhn?utm_source=Glassdays&utm_medium=referral"
+    }
+  ],
   "standaloneEvents": [],
   "schemaVersion": 2
 }
