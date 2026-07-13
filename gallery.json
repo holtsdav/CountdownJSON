@@ -87,6 +87,24 @@
       "imageURL": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5Nzg0MTN8MHwxfHNlYXJjaHw2fHxHYW1pbmd8ZW58MHx8fHwxNzgzOTUxNjc3fDA&ixlib=rb-4.1.0&q=80&w=1080",
       "unsplashAuthorName": "Lorenzo Herrera",
       "unsplashProfileURL": "https://unsplash.com/@lorenzoherrera?utm_source=Glassdays&utm_medium=referral"
+    },
+    {
+      "title": "Football",
+      "emoji": "⚽️",
+      "presets": [
+        {
+          "title": "FRA vs ESP",
+          "emoji": "⚽️",
+          "createdAt": "2026-06-11T00:00:00",
+          "targetDate": "2026-07-14T19:00:00.000Z",
+          "repeatMode": "none",
+          "timeMode": "absolute",
+          "imageURL": "https://www.comprarbanderas.es/images/banderas/400/21859-espana-francia-_400px.jpg"
+        }
+      ],
+      "imageURL": "https://images.unsplash.com/photo-1522778119026-d647f0596c20?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5Nzg0MTN8MHwxfHNlYXJjaHw3fHxmb290YmFsbHxlbnwwfHx8fDE3ODM5NTIyNzl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "unsplashAuthorName": "Vienna Reyes",
+      "unsplashProfileURL": "https://unsplash.com/@viennachanges?utm_source=Glassdays&utm_medium=referral"
     }
   ],
   "standaloneEvents": [],
