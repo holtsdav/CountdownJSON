@@ -62,7 +62,8 @@
             "url": "https://unsplash.com/photos/shallow-focus-photo-of-four-red-lighted-candles-c72eCrOstC4",
             "photoId": "c72eCrOstC4",
             "description": "advent",
-            "illustrative": true
+            "illustrative": true,
+            "thumbnailURL": "https://images.unsplash.com/photo-1577025728734-7ec67bdb97d0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5Nzg0MTN8MHwxfHNlYXJjaHwzfHxjaHJpc3RtYXMlMjBjYW5kbGV8ZW58MHx8fHwxNzg4ODk1NDYwfDA&ixlib=rb-4.1.0&q=80&w=400"
           }
         },
         {
@@ -121,7 +122,8 @@
             "url": "https://unsplash.com/photos/yellow-and-red-fireworks-5mj5jLhYWpY",
             "photoId": "5mj5jLhYWpY",
             "description": "yellow and red fireworks",
-            "illustrative": true
+            "illustrative": true,
+            "thumbnailURL": "https://images.unsplash.com/photo-1560986752-2e31d9507413?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5Nzg0MTN8MHwxfHNlYXJjaHwxfHxuZXclMjB5ZWFyJTIwZmlyZXdvcmtzfGVufDB8fHx8MTc4ODg5NTQ2MHww&ixlib=rb-4.1.0&q=80&w=400"
           }
         },
         {
@@ -150,7 +152,8 @@
             "url": "https://unsplash.com/photos/red-roses-OsHqxjVV0HE",
             "photoId": "OsHqxjVV0HE",
             "description": "red roses",
-            "illustrative": true
+            "illustrative": true,
+            "thumbnailURL": "https://images.unsplash.com/photo-1578439231583-9eca0a363860?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5Nzg0MTN8MHwxfHNlYXJjaHwyfHxyZWQlMjByb3NlcyUyMGJvdXF1ZXR8ZW58MHx8fHwxNzg4ODk1NDYwfDA&ixlib=rb-4.1.0&q=80&w=400"
           }
         }
       ],
@@ -184,7 +187,8 @@
           "artworkSource": {
             "provider": "SteamGridDB",
             "url": "https://www.steamgriddb.com/grid/685573",
-            "author": "CluckenDip"
+            "author": "CluckenDip",
+            "thumbnailURL": "https://cdn2.steamgriddb.com/thumb/7410672ba6729d50ce36845a6776962e.jpg"
           }
         },
         {
@@ -209,7 +213,8 @@
           "artworkSource": {
             "provider": "SteamGridDB",
             "url": "https://www.steamgriddb.com/grid/782862",
-            "author": "nativecoruscant"
+            "author": "nativecoruscant",
+            "thumbnailURL": "https://cdn2.steamgriddb.com/thumb/49e830db0b18619b94d3c6e899096dc7.jpg"
           }
         },
         {
@@ -234,7 +239,8 @@
           "artworkSource": {
             "provider": "SteamGridDB",
             "url": "https://www.steamgriddb.com/grid/678609",
-            "author": "r_dsgnd"
+            "author": "r_dsgnd",
+            "thumbnailURL": "https://cdn2.steamgriddb.com/thumb/d7d5d27ed9b44f4646def6eccd765991.jpg"
           }
         },
         {
@@ -263,7 +269,8 @@
             "url": "https://unsplash.com/photos/soccer-field-qCrKTET_09o",
             "photoId": "qCrKTET_09o",
             "description": "soccer field",
-            "illustrative": true
+            "illustrative": true,
+            "thumbnailURL": "https://images.unsplash.com/photo-1522778119026-d647f0596c20?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5Nzg0MTN8MHwxfHNlYXJjaHwxfHxmb290YmFsbCUyMHN0YWRpdW18ZW58MHx8fHwxNzg4ODk1NDU5fDA&ixlib=rb-4.1.0&q=80&w=400"
           }
         },
         {
@@ -288,7 +295,8 @@
           "artworkSource": {
             "provider": "SteamGridDB",
             "url": "https://www.steamgriddb.com/grid/713695",
-            "author": "r_dsgnd"
+            "author": "r_dsgnd",
+            "thumbnailURL": "https://cdn2.steamgriddb.com/thumb/8ea3be398039de26c9bf42a2791fcac3.jpg"
           }
         },
         {
@@ -317,7 +325,8 @@
             "url": "https://unsplash.com/photos/flying-gray-jet-plane-ugJ5DkR8S_o",
             "photoId": "ugJ5DkR8S_o",
             "description": "Taken April 2006.\nLockheed-Martin F22 Raptor .\nTaking off while on a visit to RAF (US) Lakenheath. Eastern England.\n( A ground to Air Photo.)",
-            "illustrative": true
+            "illustrative": true,
+            "thumbnailURL": "https://images.unsplash.com/photo-1551796880-ddd03f861ae7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5Nzg0MTN8MHwxfHNlYXJjaHwyfHxtaWxpdGFyeSUyMGFpcmNyYWZ0fGVufDB8fHx8MTc4ODg5NTQ1OXww&ixlib=rb-4.1.0&q=80&w=400"
           }
         },
         {
@@ -342,7 +351,8 @@
           "artworkSource": {
             "provider": "SteamGridDB",
             "url": "https://www.steamgriddb.com/grid/679502",
-            "author": "r_dsgnd"
+            "author": "r_dsgnd",
+            "thumbnailURL": "https://cdn2.steamgriddb.com/thumb/c2ca23c951caaa036189141224933bb8.jpg"
           }
         },
         {
@@ -367,7 +377,8 @@
           "artworkSource": {
             "provider": "SteamGridDB",
             "url": "https://www.steamgriddb.com/grid/837745",
-            "author": "natsuko"
+            "author": "natsuko",
+            "thumbnailURL": "https://cdn2.steamgriddb.com/thumb/9835aeafafef8ac7d14a0cdd9784460a.png"
           }
         },
         {
@@ -412,7 +423,8 @@
           "artworkSource": {
             "provider": "SteamGridDB",
             "url": "https://www.steamgriddb.com/grid/706142",
-            "author": "r_dsgnd"
+            "author": "r_dsgnd",
+            "thumbnailURL": "https://cdn2.steamgriddb.com/thumb/3dc9bce73f19e1d7f6bc6dd7f5241fd3.jpg"
           }
         },
         {
@@ -437,7 +449,8 @@
           "artworkSource": {
             "provider": "SteamGridDB",
             "url": "https://www.steamgriddb.com/grid/799403",
-            "author": "paintasketch"
+            "author": "paintasketch",
+            "thumbnailURL": "https://cdn2.steamgriddb.com/thumb/eb4ccc62c6742d69211cdb40dacd84f9.jpg"
           }
         }
       ],
@@ -475,7 +488,8 @@
             "url": "https://unsplash.com/photos/black-and-red-nintendo-switch-EdUYo2Y435s",
             "photoId": "EdUYo2Y435s",
             "description": "black and red nintendo switch",
-            "illustrative": true
+            "illustrative": true,
+            "thumbnailURL": "https://images.unsplash.com/photo-1612036781124-847f8939b154?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5Nzg0MTN8MHwxfHNlYXJjaHwxfHxuaW50ZW5kbyUyMHN3aXRjaHxlbnwwfHx8fDE3ODg4OTU0NTl8MA&ixlib=rb-4.1.0&q=80&w=400"
           }
         },
         {
@@ -504,7 +518,8 @@
             "url": "https://unsplash.com/photos/pink-and-white-vr-goggles-Zf0mPf4lG-U",
             "photoId": "Zf0mPf4lG-U",
             "description": "Oculus Quest 2 VR headset",
-            "illustrative": true
+            "illustrative": true,
+            "thumbnailURL": "https://images.unsplash.com/photo-1622979135225-d2ba269cf1ac?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5Nzg0MTN8MHwxfHNlYXJjaHwyfHx2aXJ0dWFsJTIwcmVhbGl0eSUyMGhlYWRzZXR8ZW58MHx8fHwxNzg4ODk1NDU5fDA&ixlib=rb-4.1.0&q=80&w=400"
           }
         },
         {
@@ -533,7 +548,8 @@
             "url": "https://unsplash.com/photos/several-clear-statuettes-stand-in-a-row-shsJnMCkvhY",
             "photoId": "shsJnMCkvhY",
             "description": "Several clear statuettes stand in a row",
-            "illustrative": true
+            "illustrative": true,
+            "thumbnailURL": "https://images.unsplash.com/photo-1764874298962-ac0c84307fc0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5Nzg0MTN8MHwxfHNlYXJjaHwzfHxhd2FyZHMlMjBzdGFnZXxlbnwwfHx8fDE3ODg4OTU0NjB8MA&ixlib=rb-4.1.0&q=80&w=400"
           }
         },
         {
@@ -562,7 +578,8 @@
             "url": "https://unsplash.com/photos/city-with-lights-turned-on-during-night-time-uxU_jyu9e7U",
             "photoId": "uxU_jyu9e7U",
             "description": "city with lights turned on during night time",
-            "illustrative": true
+            "illustrative": true,
+            "thumbnailURL": "https://images.unsplash.com/photo-1581351721010-8cf859cb14a4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5Nzg0MTN8MHwxfHNlYXJjaHwxfHxsYXMlMjB2ZWdhcyUyMGNvbnZlbnRpb258ZW58MHx8fHwxNzg4ODk1NDYwfDA&ixlib=rb-4.1.0&q=80&w=400"
           }
         }
       ],
