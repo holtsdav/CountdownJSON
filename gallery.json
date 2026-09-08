@@ -180,15 +180,15 @@
             "notes": "PS5 release date. Unlock time may depend on the regional storefront; midnight here is a date marker.",
             "targetDate": "2026-09-15T00:00:00"
           },
-          "imageURL": "https://cdn2.steamgriddb.com/grid/5c066d09aaedbc8de0155ed20e428bbc.png",
-          "imageScale": 1,
+          "imageURL": "https://cdn2.steamgriddb.com/grid/2a5d44fc98c59d28a4dfa7fe0db9efae.png",
+          "imageScale": 1.44,
           "imageOffsetX": 0,
           "imageOffsetY": 0,
           "artworkSource": {
             "provider": "SteamGridDB",
-            "url": "https://www.steamgriddb.com/grid/663483",
-            "thumbnailURL": "https://cdn2.steamgriddb.com/thumb/5c066d09aaedbc8de0155ed20e428bbc.jpg",
-            "author": "Gusto"
+            "url": "https://www.steamgriddb.com/grid/658855",
+            "thumbnailURL": "https://cdn2.steamgriddb.com/thumb/2a5d44fc98c59d28a4dfa7fe0db9efae.jpg",
+            "author": "r_dsgnd"
           }
         },
         {
@@ -206,15 +206,15 @@
             "notes": "Standard release. PS5 regional storefronts show local midnight; PC timing may differ. Not one worldwide instant.",
             "targetDate": "2026-09-24T00:00:00"
           },
-          "imageURL": "https://cdn2.steamgriddb.com/grid/49e830db0b18619b94d3c6e899096dc7.png",
-          "imageScale": 1,
+          "imageURL": "https://cdn2.steamgriddb.com/grid/f12a65c605e909b470b64fe3c790a126.png",
+          "imageScale": 1.27,
           "imageOffsetX": 0,
-          "imageOffsetY": 0,
+          "imageOffsetY": -0.13,
           "artworkSource": {
             "provider": "SteamGridDB",
-            "url": "https://www.steamgriddb.com/grid/782862",
-            "author": "nativecoruscant",
-            "thumbnailURL": "https://cdn2.steamgriddb.com/thumb/49e830db0b18619b94d3c6e899096dc7.jpg"
+            "url": "https://www.steamgriddb.com/grid/786826",
+            "thumbnailURL": "https://cdn2.steamgriddb.com/thumb/f12a65c605e909b470b64fe3c790a126.jpg",
+            "author": "r_dsgnd"
           }
         },
         {
@@ -232,15 +232,15 @@
             "notes": "PlayStation unlock listing: 14:00 UTC, also shown by the Japanese PlayStation listing. This is 16:00 in Berlin.",
             "targetDate": "2026-09-24T14:00:00Z"
           },
-          "imageURL": "https://cdn2.steamgriddb.com/grid/d7d5d27ed9b44f4646def6eccd765991.png",
-          "imageScale": 1,
+          "imageURL": "https://cdn2.steamgriddb.com/grid/e5e1a6746f8f0185e8141f23820e286c.png",
+          "imageScale": 1.17,
           "imageOffsetX": 0,
-          "imageOffsetY": 0,
+          "imageOffsetY": -0.11,
           "artworkSource": {
             "provider": "SteamGridDB",
-            "url": "https://www.steamgriddb.com/grid/678609",
-            "author": "r_dsgnd",
-            "thumbnailURL": "https://cdn2.steamgriddb.com/thumb/d7d5d27ed9b44f4646def6eccd765991.jpg"
+            "url": "https://www.steamgriddb.com/grid/678612",
+            "thumbnailURL": "https://cdn2.steamgriddb.com/thumb/e5e1a6746f8f0185e8141f23820e286c.jpg",
+            "author": "r_dsgnd"
           }
         },
         {
@@ -258,20 +258,10 @@
             "notes": "Standard Edition release date. Early-access editions differ. An exact universal unlock time is not confirmed.",
             "targetDate": "2026-09-25T00:00:00"
           },
-          "imageURL": "https://images.unsplash.com/photo-1522778119026-d647f0596c20?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5Nzg0MTN8MHwxfHNlYXJjaHwxfHxmb290YmFsbCUyMHN0YWRpdW18ZW58MHx8fHwxNzg4ODk1NDU5fDA&ixlib=rb-4.1.0&q=80&w=1080",
-          "imageScale": 1,
+          "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-rX9NMSFuZTa7YXep2ZBIERGzr1YIOgHMmTx-9gj1dQ&s",
+          "imageScale": 1.22,
           "imageOffsetX": 0,
-          "imageOffsetY": 0,
-          "unsplashAuthorName": "Vienna Reyes",
-          "unsplashProfileURL": "https://unsplash.com/@viennachanges?utm_source=Glassdays&utm_medium=referral",
-          "artworkSource": {
-            "provider": "Unsplash",
-            "url": "https://unsplash.com/photos/soccer-field-qCrKTET_09o",
-            "photoId": "qCrKTET_09o",
-            "description": "soccer field",
-            "illustrative": true,
-            "thumbnailURL": "https://images.unsplash.com/photo-1522778119026-d647f0596c20?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5Nzg0MTN8MHwxfHNlYXJjaHwxfHxmb290YmFsbCUyMHN0YWRpdW18ZW58MHx8fHwxNzg4ODk1NDU5fDA&ixlib=rb-4.1.0&q=80&w=400"
-          }
+          "imageOffsetY": 0.07
         },
         {
           "title": "Gears of War: E-Day",
@@ -288,15 +278,15 @@
             "notes": "Standard release date; premium early access starts October 1. Exact standard unlock time is not confirmed.",
             "targetDate": "2026-10-06T00:00:00"
           },
-          "imageURL": "https://cdn2.steamgriddb.com/grid/8ea3be398039de26c9bf42a2791fcac3.png",
-          "imageScale": 1,
+          "imageURL": "https://cdn2.steamgriddb.com/grid/13b36cbcb5256756a1025664b6d7fba1.png",
+          "imageScale": 1.28,
           "imageOffsetX": 0,
           "imageOffsetY": 0,
           "artworkSource": {
             "provider": "SteamGridDB",
-            "url": "https://www.steamgriddb.com/grid/713695",
-            "author": "r_dsgnd",
-            "thumbnailURL": "https://cdn2.steamgriddb.com/thumb/8ea3be398039de26c9bf42a2791fcac3.jpg"
+            "url": "https://www.steamgriddb.com/grid/791037",
+            "thumbnailURL": "https://cdn2.steamgriddb.com/thumb/13b36cbcb5256756a1025664b6d7fba1.jpg",
+            "author": "r_dsgnd"
           }
         },
         {
@@ -314,19 +304,15 @@
             "notes": "Release date confirmed by the publisher. A platform-specific worldwide unlock schedule is not confirmed.",
             "targetDate": "2026-10-23T00:00:00"
           },
-          "imageURL": "https://images.unsplash.com/photo-1551796880-ddd03f861ae7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5Nzg0MTN8MHwxfHNlYXJjaHwyfHxtaWxpdGFyeSUyMGFpcmNyYWZ0fGVufDB8fHx8MTc4ODg5NTQ1OXww&ixlib=rb-4.1.0&q=80&w=1080",
-          "imageScale": 1,
-          "imageOffsetX": 0,
-          "imageOffsetY": 0,
-          "unsplashAuthorName": "Terence Burke",
-          "unsplashProfileURL": "https://unsplash.com/@ancientwanderer?utm_source=Glassdays&utm_medium=referral",
+          "imageURL": "https://cdn2.steamgriddb.com/grid/16e68973cbe25c0854ee64bf8679161a.png",
+          "imageScale": 1.51,
+          "imageOffsetX": 0.04,
+          "imageOffsetY": 0.13,
           "artworkSource": {
-            "provider": "Unsplash",
-            "url": "https://unsplash.com/photos/flying-gray-jet-plane-ugJ5DkR8S_o",
-            "photoId": "ugJ5DkR8S_o",
-            "description": "Taken April 2006.\nLockheed-Martin F22 Raptor .\nTaking off while on a visit to RAF (US) Lakenheath. Eastern England.\n( A ground to Air Photo.)",
-            "illustrative": true,
-            "thumbnailURL": "https://images.unsplash.com/photo-1551796880-ddd03f861ae7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5Nzg0MTN8MHwxfHNlYXJjaHwyfHxtaWxpdGFyeSUyMGFpcmNyYWZ0fGVufDB8fHx8MTc4ODg5NTQ1OXww&ixlib=rb-4.1.0&q=80&w=400"
+            "provider": "SteamGridDB",
+            "url": "https://www.steamgriddb.com/grid/836222",
+            "thumbnailURL": "https://cdn2.steamgriddb.com/thumb/16e68973cbe25c0854ee64bf8679161a.jpg",
+            "author": "CluckenDip"
           }
         },
         {
@@ -344,15 +330,15 @@
             "notes": "PlayStation US and Japanese storefronts list 02:00 UTC. Berlin is already on standard time: 03:00 CET.",
             "targetDate": "2026-10-29T02:00:00Z"
           },
-          "imageURL": "https://cdn2.steamgriddb.com/grid/c2ca23c951caaa036189141224933bb8.png",
-          "imageScale": 1,
+          "imageURL": "https://cdn2.steamgriddb.com/grid/06ccdee68a7a73ae99b9946785f92cad.png",
+          "imageScale": 1.31,
           "imageOffsetX": 0,
-          "imageOffsetY": 0,
+          "imageOffsetY": 0.12,
           "artworkSource": {
             "provider": "SteamGridDB",
-            "url": "https://www.steamgriddb.com/grid/679502",
-            "author": "r_dsgnd",
-            "thumbnailURL": "https://cdn2.steamgriddb.com/thumb/c2ca23c951caaa036189141224933bb8.jpg"
+            "url": "https://www.steamgriddb.com/grid/821719",
+            "thumbnailURL": "https://cdn2.steamgriddb.com/thumb/06ccdee68a7a73ae99b9946785f92cad.png",
+            "author": "natsuko"
           }
         },
         {
@@ -443,9 +429,9 @@
             "targetDate": "2027-04-08T00:00:00"
           },
           "imageURL": "https://cdn2.steamgriddb.com/grid/eb4ccc62c6742d69211cdb40dacd84f9.png",
-          "imageScale": 1,
-          "imageOffsetX": 0,
-          "imageOffsetY": 0,
+          "imageScale": 1.31,
+          "imageOffsetX": -0.05,
+          "imageOffsetY": 0.06,
           "artworkSource": {
             "provider": "SteamGridDB",
             "url": "https://www.steamgriddb.com/grid/799403",
@@ -477,21 +463,13 @@
             "notes": "Broadcast starts 07:00 PDT / 10:00 EDT / 16:00 CEST.",
             "targetDate": "2026-09-09T14:00:00Z"
           },
-          "imageURL": "https://images.unsplash.com/photo-1585427795543-33cf23ea2853?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5Nzg0MTN8MHwxfHNlYXJjaHwzfHxOaW50ZW5kbyUyMHN3aXRjaHxlbnwwfHx8fDE3ODg5MDAwODZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
-          "imageScale": 1,
+          "imageURL": "https://i.pinimg.com/736x/f4/17/f2/f417f2197cee8cf7db2120edfb61a617.jpg",
+          "imageScale": 1.18,
           "imageOffsetX": 0,
-          "imageOffsetY": 0,
-          "unsplashAuthorName": "Alvaro Reyes",
-          "unsplashProfileURL": "https://unsplash.com/@alvarordesign?utm_source=Glassdays&utm_medium=referral",
-          "artworkSource": {
-            "provider": "Unsplash",
-            "url": "https://unsplash.com/photos/person-holding-black-and-orange-nintendo-switch-NOBH7Rq7ZN8",
-            "photoId": "NOBH7Rq7ZN8",
-            "thumbnailURL": "https://images.unsplash.com/photo-1585427795543-33cf23ea2853?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5Nzg0MTN8MHwxfHNlYXJjaHwzfHxOaW50ZW5kbyUyMHN3aXRjaHxlbnwwfHx8fDE3ODg5MDAwODZ8MA&ixlib=rb-4.1.0&q=80&w=400"
-          }
+          "imageOffsetY": -0.08
         },
         {
-          "title": "Meta Connect 2026",
+          "title": "Meta Connect",
           "emoji": "📡",
           "createdAt": "2026-09-08T19:33:28Z",
           "targetDate": "2026-09-23T23:00:00Z",
@@ -505,20 +483,10 @@
             "notes": "Opening keynote: September 23 at 16:00 PDT. In Berlin that is September 24 at 01:00 CEST.",
             "targetDate": "2026-09-23T23:00:00Z"
           },
-          "imageURL": "https://images.unsplash.com/photo-1622979135225-d2ba269cf1ac?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5Nzg0MTN8MHwxfHNlYXJjaHwyfHx2aXJ0dWFsJTIwcmVhbGl0eSUyMGhlYWRzZXR8ZW58MHx8fHwxNzg4ODk1NDU5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+          "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXkmk2Cg3cpHe5-UWJI7bm7cdjT0TVZ8F-z557q0geHs78ulzxV0AViOS0&s=10",
           "imageScale": 1,
           "imageOffsetX": 0,
-          "imageOffsetY": 0,
-          "unsplashAuthorName": "Remy Gieling",
-          "unsplashProfileURL": "https://unsplash.com/@gieling?utm_source=Glassdays&utm_medium=referral",
-          "artworkSource": {
-            "provider": "Unsplash",
-            "url": "https://unsplash.com/photos/pink-and-white-vr-goggles-Zf0mPf4lG-U",
-            "photoId": "Zf0mPf4lG-U",
-            "description": "Oculus Quest 2 VR headset",
-            "illustrative": true,
-            "thumbnailURL": "https://images.unsplash.com/photo-1622979135225-d2ba269cf1ac?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5Nzg0MTN8MHwxfHNlYXJjaHwyfHx2aXJ0dWFsJTIwcmVhbGl0eSUyMGhlYWRzZXR8ZW58MHx8fHwxNzg4ODk1NDU5fDA&ixlib=rb-4.1.0&q=80&w=400"
-          }
+          "imageOffsetY": -0.11
         },
         {
           "title": "The Game Awards 2026",
