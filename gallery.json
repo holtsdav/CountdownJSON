@@ -459,7 +459,7 @@
       "unsplashProfileURL": "https://unsplash.com/@lorenzoherrera?utm_source=Glassdays&utm_medium=referral"
     },
     {
-      "title": "Tech & gaming",
+      "title": "Tech Events",
       "emoji": "📡",
       "presets": [
         {
@@ -581,6 +581,24 @@
             "illustrative": true,
             "thumbnailURL": "https://images.unsplash.com/photo-1581351721010-8cf859cb14a4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5Nzg0MTN8MHwxfHNlYXJjaHwxfHxsYXMlMjB2ZWdhcyUyMGNvbnZlbnRpb258ZW58MHx8fHwxNzg4ODk1NDYwfDA&ixlib=rb-4.1.0&q=80&w=400"
           }
+        },
+        {
+          "title": "Apple Event",
+          "emoji": "📱",
+          "createdAt": "2025-09-09T16:00:00Z",
+          "targetDate": "2026-09-09T17:00:00Z",
+          "repeatMode": "none",
+          "timeZone": "America/Los_Angeles",
+          "imageURL": "https://images.unsplash.com/photo-1718964894957-c2eef52722da?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5Nzg0MTN8MHwxfHNlYXJjaHwyfHxBcHBsZSUyMFBhcmt8ZW58MHx8fHwxNzg2Nzg3MTMwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+          "unsplashAuthorName": "Artem Horovenko",
+          "timeMode": "absolute",
+          "verification": {
+            "precision": "time",
+            "checkedOn": "2026-09-08",
+            "sourceURL": "https://developer.apple.com/news/?id=s6spdug0",
+            "notes": "Broadcast starts 10:00 PDT / 19:00 CEST. Kept the existing event title to preserve saved-event identity.",
+            "targetDate": "2026-09-09T17:00:00Z"
+          }
         }
       ],
       "imageURL": "https://images.unsplash.com/photo-1612036781124-847f8939b154?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5Nzg0MTN8MHwxfHNlYXJjaHwxfHxuaW50ZW5kbyUyMHN3aXRjaHxlbnwwfHx8fDE3ODg4OTU0NTl8MA&ixlib=rb-4.1.0&q=80&w=1080",
@@ -595,25 +613,6 @@
       }
     }
   ],
-  "standaloneEvents": [
-    {
-      "title": "Apple Event",
-      "emoji": "📱",
-      "createdAt": "2025-09-09T16:00:00Z",
-      "targetDate": "2026-09-09T17:00:00Z",
-      "repeatMode": "none",
-      "timeZone": "America/Los_Angeles",
-      "imageURL": "https://images.unsplash.com/photo-1718964894957-c2eef52722da?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5Nzg0MTN8MHwxfHNlYXJjaHwyfHxBcHBsZSUyMFBhcmt8ZW58MHx8fHwxNzg2Nzg3MTMwfDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "unsplashAuthorName": "Artem Horovenko",
-      "timeMode": "absolute",
-      "verification": {
-        "precision": "time",
-        "checkedOn": "2026-09-08",
-        "sourceURL": "https://developer.apple.com/news/?id=s6spdug0",
-        "notes": "Broadcast starts 10:00 PDT / 19:00 CEST. Kept the existing event title to preserve saved-event identity.",
-        "targetDate": "2026-09-09T17:00:00Z"
-      }
-    }
-  ],
+  "standaloneEvents": [],
   "schemaVersion": 2
 }
