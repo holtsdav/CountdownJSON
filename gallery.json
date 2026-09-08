@@ -180,15 +180,15 @@
             "notes": "PS5 release date. Unlock time may depend on the regional storefront; midnight here is a date marker.",
             "targetDate": "2026-09-15T00:00:00"
           },
-          "imageURL": "https://cdn2.steamgriddb.com/grid/7410672ba6729d50ce36845a6776962e.jpg",
+          "imageURL": "https://cdn2.steamgriddb.com/grid/5c066d09aaedbc8de0155ed20e428bbc.png",
           "imageScale": 1,
           "imageOffsetX": 0,
           "imageOffsetY": 0,
           "artworkSource": {
             "provider": "SteamGridDB",
-            "url": "https://www.steamgriddb.com/grid/685573",
-            "author": "CluckenDip",
-            "thumbnailURL": "https://cdn2.steamgriddb.com/thumb/7410672ba6729d50ce36845a6776962e.jpg"
+            "url": "https://www.steamgriddb.com/grid/663483",
+            "thumbnailURL": "https://cdn2.steamgriddb.com/thumb/5c066d09aaedbc8de0155ed20e428bbc.jpg",
+            "author": "Gusto"
           }
         },
         {
@@ -463,7 +463,7 @@
       "emoji": "📡",
       "presets": [
         {
-          "title": "Nintendo Direct September 2026",
+          "title": "Nintendo Direct",
           "emoji": "📡",
           "createdAt": "2026-09-08T19:33:28Z",
           "targetDate": "2026-09-09T14:00:00Z",
@@ -477,19 +477,17 @@
             "notes": "Broadcast starts 07:00 PDT / 10:00 EDT / 16:00 CEST.",
             "targetDate": "2026-09-09T14:00:00Z"
           },
-          "imageURL": "https://images.unsplash.com/photo-1612036781124-847f8939b154?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5Nzg0MTN8MHwxfHNlYXJjaHwxfHxuaW50ZW5kbyUyMHN3aXRjaHxlbnwwfHx8fDE3ODg4OTU0NTl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+          "imageURL": "https://images.unsplash.com/photo-1585427795543-33cf23ea2853?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5Nzg0MTN8MHwxfHNlYXJjaHwzfHxOaW50ZW5kbyUyMHN3aXRjaHxlbnwwfHx8fDE3ODg5MDAwODZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
           "imageScale": 1,
           "imageOffsetX": 0,
           "imageOffsetY": 0,
-          "unsplashAuthorName": "Erik Mclean",
-          "unsplashProfileURL": "https://unsplash.com/@introspectivedsgn?utm_source=Glassdays&utm_medium=referral",
+          "unsplashAuthorName": "Alvaro Reyes",
+          "unsplashProfileURL": "https://unsplash.com/@alvarordesign?utm_source=Glassdays&utm_medium=referral",
           "artworkSource": {
             "provider": "Unsplash",
-            "url": "https://unsplash.com/photos/black-and-red-nintendo-switch-EdUYo2Y435s",
-            "photoId": "EdUYo2Y435s",
-            "description": "black and red nintendo switch",
-            "illustrative": true,
-            "thumbnailURL": "https://images.unsplash.com/photo-1612036781124-847f8939b154?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5Nzg0MTN8MHwxfHNlYXJjaHwxfHxuaW50ZW5kbyUyMHN3aXRjaHxlbnwwfHx8fDE3ODg4OTU0NTl8MA&ixlib=rb-4.1.0&q=80&w=400"
+            "url": "https://unsplash.com/photos/person-holding-black-and-orange-nintendo-switch-NOBH7Rq7ZN8",
+            "photoId": "NOBH7Rq7ZN8",
+            "thumbnailURL": "https://images.unsplash.com/photo-1585427795543-33cf23ea2853?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5Nzg0MTN8MHwxfHNlYXJjaHwzfHxOaW50ZW5kbyUyMHN3aXRjaHxlbnwwfHx8fDE3ODg5MDAwODZ8MA&ixlib=rb-4.1.0&q=80&w=400"
           }
         },
         {
