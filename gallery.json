@@ -5,28 +5,6 @@
       "emoji": "🎄",
       "presets": [
         {
-          "title": "Christmas",
-          "emoji": "🎄",
-          "createdAt": "2025-12-25T00:00:00",
-          "targetDate": "2026-12-25T00:00:00",
-          "repeatMode": "yearly",
-          "timeMode": "local",
-          "imageURL": "https://images.unsplash.com/photo-1543589077-47d81606c1bf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5Nzg0MTN8MHwxfHNlYXJjaHwxNnx8Q2hyaXN0bWFzfGVufDB8fHx8MTc4Mzk1MTI0Nnww&ixlib=rb-4.1.0&q=80&w=1080",
-          "unsplashAuthorName": "Annie Spratt",
-          "unsplashProfileURL": "https://unsplash.com/@anniespratt?utm_source=Glassdays&utm_medium=referral"
-        },
-        {
-          "title": "New Year's Eve",
-          "emoji": "🎆",
-          "createdAt": "2025-12-31T00:00:00",
-          "targetDate": "2026-12-31T00:00:00",
-          "repeatMode": "yearly",
-          "timeMode": "local",
-          "imageURL": "https://images.unsplash.com/photo-1500212802521-de7d7426f496?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5Nzg0MTN8MHwxfHNlYXJjaHw3fHxOZXclMjBZZWFyc3xlbnwwfHx8fDE3ODM5NTE0MzF8MA&ixlib=rb-4.1.0&q=80&w=1080",
-          "unsplashAuthorName": "Paul Morley",
-          "unsplashProfileURL": "https://unsplash.com/@mobography?utm_source=Glassdays&utm_medium=referral"
-        },
-        {
           "title": "4th of July",
           "emoji": "🗽",
           "createdAt": "2025-07-04T00:00:00",
@@ -48,7 +26,132 @@
           "unsplashAuthorName": "Rick Monteiro",
           "unsplashProfileURL": "https://unsplash.com/@rickmontii?utm_source=Glassdays&utm_medium=referral",
           "imageOffsetY": -0.06,
-          "imageScale": 1.09
+          "imageScale": 1.09,
+          "timeZone": "Floating",
+          "verification": {
+            "precision": "date",
+            "checkedOn": "2026-09-08",
+            "sourceURL": "https://www.timeanddate.com/holidays/common/halloween",
+            "notes": "Annual observance on October 31. Starts at midnight in each viewer’s local time zone.",
+            "targetDate": "2026-10-31T00:00:00"
+          }
+        },
+        {
+          "title": "Christmas Eve",
+          "emoji": "🕯️",
+          "createdAt": "2026-09-08T19:33:28Z",
+          "targetDate": "2026-12-24T00:00:00",
+          "repeatMode": "yearly",
+          "timeMode": "local",
+          "timeZone": "Floating",
+          "verification": {
+            "precision": "date",
+            "checkedOn": "2026-09-08",
+            "sourceURL": "https://www.timeanddate.com/holidays/common/christmas-eve",
+            "notes": "Annual observance on December 24. Local midnight marks the start of the day.",
+            "targetDate": "2026-12-24T00:00:00"
+          },
+          "imageURL": "https://images.unsplash.com/photo-1577025728734-7ec67bdb97d0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5Nzg0MTN8MHwxfHNlYXJjaHwzfHxjaHJpc3RtYXMlMjBjYW5kbGV8ZW58MHx8fHwxNzg4ODk1NDYwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+          "imageScale": 1,
+          "imageOffsetX": 0,
+          "imageOffsetY": 0,
+          "unsplashAuthorName": "Max Beck",
+          "unsplashProfileURL": "https://unsplash.com/@maxvonbeck?utm_source=Glassdays&utm_medium=referral",
+          "artworkSource": {
+            "provider": "Unsplash",
+            "url": "https://unsplash.com/photos/shallow-focus-photo-of-four-red-lighted-candles-c72eCrOstC4",
+            "photoId": "c72eCrOstC4",
+            "description": "advent",
+            "illustrative": true
+          }
+        },
+        {
+          "title": "Christmas",
+          "emoji": "🎄",
+          "createdAt": "2025-12-25T00:00:00",
+          "targetDate": "2026-12-25T00:00:00",
+          "repeatMode": "yearly",
+          "timeMode": "local",
+          "imageURL": "https://images.unsplash.com/photo-1543589077-47d81606c1bf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5Nzg0MTN8MHwxfHNlYXJjaHwxNnx8Q2hyaXN0bWFzfGVufDB8fHx8MTc4Mzk1MTI0Nnww&ixlib=rb-4.1.0&q=80&w=1080",
+          "unsplashAuthorName": "Annie Spratt",
+          "unsplashProfileURL": "https://unsplash.com/@anniespratt?utm_source=Glassdays&utm_medium=referral",
+          "timeZone": "Floating",
+          "verification": {
+            "precision": "date",
+            "checkedOn": "2026-09-08",
+            "sourceURL": "https://www.timeanddate.com/holidays/common/christmas-day",
+            "notes": "Christmas Day in the Gregorian calendar, December 25. Kept the existing title to preserve saved-event identity.",
+            "targetDate": "2026-12-25T00:00:00"
+          }
+        },
+        {
+          "title": "New Year's Eve",
+          "emoji": "🎆",
+          "createdAt": "2025-12-31T00:00:00",
+          "targetDate": "2026-12-31T00:00:00",
+          "repeatMode": "yearly",
+          "timeMode": "local",
+          "imageURL": "https://images.unsplash.com/photo-1500212802521-de7d7426f496?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5Nzg0MTN8MHwxfHNlYXJjaHw3fHxOZXclMjBZZWFyc3xlbnwwfHx8fDE3ODM5NTE0MzF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+          "unsplashAuthorName": "Paul Morley",
+          "unsplashProfileURL": "https://unsplash.com/@mobography?utm_source=Glassdays&utm_medium=referral"
+        },
+        {
+          "title": "New Year",
+          "emoji": "🎆",
+          "createdAt": "2026-09-08T19:33:28Z",
+          "targetDate": "2027-01-01T00:00:00",
+          "repeatMode": "yearly",
+          "timeMode": "local",
+          "timeZone": "Floating",
+          "verification": {
+            "precision": "date",
+            "checkedOn": "2026-09-08",
+            "sourceURL": "https://www.timeanddate.com/holidays/common/new-year-day",
+            "notes": "New Year’s Day, January 1. Midnight arrives separately in each viewer’s local time zone.",
+            "targetDate": "2027-01-01T00:00:00"
+          },
+          "imageURL": "https://images.unsplash.com/photo-1560986752-2e31d9507413?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5Nzg0MTN8MHwxfHNlYXJjaHwxfHxuZXclMjB5ZWFyJTIwZmlyZXdvcmtzfGVufDB8fHx8MTc4ODg5NTQ2MHww&ixlib=rb-4.1.0&q=80&w=1080",
+          "imageScale": 1,
+          "imageOffsetX": 0,
+          "imageOffsetY": 0,
+          "unsplashAuthorName": "DESIGNECOLOGIST",
+          "unsplashProfileURL": "https://unsplash.com/@designecologist?utm_source=Glassdays&utm_medium=referral",
+          "artworkSource": {
+            "provider": "Unsplash",
+            "url": "https://unsplash.com/photos/yellow-and-red-fireworks-5mj5jLhYWpY",
+            "photoId": "5mj5jLhYWpY",
+            "description": "yellow and red fireworks",
+            "illustrative": true
+          }
+        },
+        {
+          "title": "Valentine's Day",
+          "emoji": "🌹",
+          "createdAt": "2026-09-08T19:33:28Z",
+          "targetDate": "2027-02-14T00:00:00",
+          "repeatMode": "yearly",
+          "timeMode": "local",
+          "timeZone": "Floating",
+          "verification": {
+            "precision": "date",
+            "checkedOn": "2026-09-08",
+            "sourceURL": "https://www.timeanddate.com/holidays/common/valentine-day",
+            "notes": "Annual observance on February 14. Local midnight marks the start of the day.",
+            "targetDate": "2027-02-14T00:00:00"
+          },
+          "imageURL": "https://images.unsplash.com/photo-1578439231583-9eca0a363860?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5Nzg0MTN8MHwxfHNlYXJjaHwyfHxyZWQlMjByb3NlcyUyMGJvdXF1ZXR8ZW58MHx8fHwxNzg4ODk1NDYwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+          "imageScale": 1,
+          "imageOffsetX": 0,
+          "imageOffsetY": 0,
+          "unsplashAuthorName": "Cody  Chan",
+          "unsplashProfileURL": "https://unsplash.com/@cceee?utm_source=Glassdays&utm_medium=referral",
+          "artworkSource": {
+            "provider": "Unsplash",
+            "url": "https://unsplash.com/photos/red-roses-OsHqxjVV0HE",
+            "photoId": "OsHqxjVV0HE",
+            "description": "red roses",
+            "illustrative": true
+          }
         }
       ],
       "imageURL": "https://images.unsplash.com/photo-1482003297000-b7663a1673f1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5Nzg0MTN8MHwxfHNlYXJjaHwxNHx8Q2hyaXN0bWFzfGVufDB8fHx8MTc4Mzk1MTI0Nnww&ixlib=rb-4.1.0&q=80&w=1080",
@@ -60,6 +163,214 @@
       "emoji": "🕹️",
       "presets": [
         {
+          "title": "Marvel's Wolverine",
+          "emoji": "🎮",
+          "createdAt": "2026-09-08T19:33:28Z",
+          "targetDate": "2026-09-15T00:00:00",
+          "repeatMode": "none",
+          "timeMode": "local",
+          "timeZone": "Floating",
+          "verification": {
+            "precision": "date",
+            "checkedOn": "2026-09-08",
+            "sourceURL": "https://www.playstation.com/en-us/games/marvels-wolverine/",
+            "notes": "PS5 release date. Unlock time may depend on the regional storefront; midnight here is a date marker.",
+            "targetDate": "2026-09-15T00:00:00"
+          },
+          "imageURL": "https://cdn2.steamgriddb.com/grid/7410672ba6729d50ce36845a6776962e.jpg",
+          "imageScale": 1,
+          "imageOffsetX": 0,
+          "imageOffsetY": 0,
+          "artworkSource": {
+            "provider": "SteamGridDB",
+            "url": "https://www.steamgriddb.com/grid/685573",
+            "author": "CluckenDip"
+          }
+        },
+        {
+          "title": "Silent Hill: Townfall",
+          "emoji": "🎮",
+          "createdAt": "2026-09-08T19:33:28Z",
+          "targetDate": "2026-09-24T00:00:00",
+          "repeatMode": "none",
+          "timeMode": "local",
+          "timeZone": "Floating",
+          "verification": {
+            "precision": "date",
+            "checkedOn": "2026-09-08",
+            "sourceURL": "https://www.konami.com/games/eu/en/topics/19146/",
+            "notes": "Standard release. PS5 regional storefronts show local midnight; PC timing may differ. Not one worldwide instant.",
+            "targetDate": "2026-09-24T00:00:00"
+          },
+          "imageURL": "https://cdn2.steamgriddb.com/grid/49e830db0b18619b94d3c6e899096dc7.png",
+          "imageScale": 1,
+          "imageOffsetX": 0,
+          "imageOffsetY": 0,
+          "artworkSource": {
+            "provider": "SteamGridDB",
+            "url": "https://www.steamgriddb.com/grid/782862",
+            "author": "nativecoruscant"
+          }
+        },
+        {
+          "title": "Control Resonant",
+          "emoji": "🎮",
+          "createdAt": "2026-09-08T19:33:28Z",
+          "targetDate": "2026-09-24T14:00:00Z",
+          "repeatMode": "none",
+          "timeMode": "absolute",
+          "timeZone": "UTC",
+          "verification": {
+            "precision": "time",
+            "checkedOn": "2026-09-08",
+            "sourceURL": "https://store.playstation.com/en-us/product/EP5291-PPSA34547_00-0210080241603648/",
+            "notes": "PlayStation unlock listing: 14:00 UTC, also shown by the Japanese PlayStation listing. This is 16:00 in Berlin.",
+            "targetDate": "2026-09-24T14:00:00Z"
+          },
+          "imageURL": "https://cdn2.steamgriddb.com/grid/d7d5d27ed9b44f4646def6eccd765991.png",
+          "imageScale": 1,
+          "imageOffsetX": 0,
+          "imageOffsetY": 0,
+          "artworkSource": {
+            "provider": "SteamGridDB",
+            "url": "https://www.steamgriddb.com/grid/678609",
+            "author": "r_dsgnd"
+          }
+        },
+        {
+          "title": "EA SPORTS FC 27",
+          "emoji": "🎮",
+          "createdAt": "2026-09-08T19:33:28Z",
+          "targetDate": "2026-09-25T00:00:00",
+          "repeatMode": "none",
+          "timeMode": "local",
+          "timeZone": "Floating",
+          "verification": {
+            "precision": "date",
+            "checkedOn": "2026-09-08",
+            "sourceURL": "https://www.ea.com/games/ea-sports-fc/fc-27/news/fc-27-editions-and-release-dates",
+            "notes": "Standard Edition release date. Early-access editions differ. An exact universal unlock time is not confirmed.",
+            "targetDate": "2026-09-25T00:00:00"
+          },
+          "imageURL": "https://images.unsplash.com/photo-1522778119026-d647f0596c20?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5Nzg0MTN8MHwxfHNlYXJjaHwxfHxmb290YmFsbCUyMHN0YWRpdW18ZW58MHx8fHwxNzg4ODk1NDU5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+          "imageScale": 1,
+          "imageOffsetX": 0,
+          "imageOffsetY": 0,
+          "unsplashAuthorName": "Vienna Reyes",
+          "unsplashProfileURL": "https://unsplash.com/@viennachanges?utm_source=Glassdays&utm_medium=referral",
+          "artworkSource": {
+            "provider": "Unsplash",
+            "url": "https://unsplash.com/photos/soccer-field-qCrKTET_09o",
+            "photoId": "qCrKTET_09o",
+            "description": "soccer field",
+            "illustrative": true
+          }
+        },
+        {
+          "title": "Gears of War: E-Day",
+          "emoji": "🎮",
+          "createdAt": "2026-09-08T19:33:28Z",
+          "targetDate": "2026-10-06T00:00:00",
+          "repeatMode": "none",
+          "timeMode": "local",
+          "timeZone": "Floating",
+          "verification": {
+            "precision": "date",
+            "checkedOn": "2026-09-08",
+            "sourceURL": "https://news.xbox.com/en-us/2026/06/07/gears-of-war-eday-direct-xbox-games-showcase-2026/",
+            "notes": "Standard release date; premium early access starts October 1. Exact standard unlock time is not confirmed.",
+            "targetDate": "2026-10-06T00:00:00"
+          },
+          "imageURL": "https://cdn2.steamgriddb.com/grid/8ea3be398039de26c9bf42a2791fcac3.png",
+          "imageScale": 1,
+          "imageOffsetX": 0,
+          "imageOffsetY": 0,
+          "artworkSource": {
+            "provider": "SteamGridDB",
+            "url": "https://www.steamgriddb.com/grid/713695",
+            "author": "r_dsgnd"
+          }
+        },
+        {
+          "title": "Call of Duty: Modern Warfare 4",
+          "emoji": "🎮",
+          "createdAt": "2026-09-08T19:33:28Z",
+          "targetDate": "2026-10-23T00:00:00",
+          "repeatMode": "none",
+          "timeMode": "local",
+          "timeZone": "Floating",
+          "verification": {
+            "precision": "date",
+            "checkedOn": "2026-09-08",
+            "sourceURL": "https://www.callofduty.com/uk/en/blog/2026/05/modernwarfare4-fob",
+            "notes": "Release date confirmed by the publisher. A platform-specific worldwide unlock schedule is not confirmed.",
+            "targetDate": "2026-10-23T00:00:00"
+          },
+          "imageURL": "https://images.unsplash.com/photo-1551796880-ddd03f861ae7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5Nzg0MTN8MHwxfHNlYXJjaHwyfHxtaWxpdGFyeSUyMGFpcmNyYWZ0fGVufDB8fHx8MTc4ODg5NTQ1OXww&ixlib=rb-4.1.0&q=80&w=1080",
+          "imageScale": 1,
+          "imageOffsetX": 0,
+          "imageOffsetY": 0,
+          "unsplashAuthorName": "Terence Burke",
+          "unsplashProfileURL": "https://unsplash.com/@ancientwanderer?utm_source=Glassdays&utm_medium=referral",
+          "artworkSource": {
+            "provider": "Unsplash",
+            "url": "https://unsplash.com/photos/flying-gray-jet-plane-ugJ5DkR8S_o",
+            "photoId": "ugJ5DkR8S_o",
+            "description": "Taken April 2006.\nLockheed-Martin F22 Raptor .\nTaking off while on a visit to RAF (US) Lakenheath. Eastern England.\n( A ground to Air Photo.)",
+            "illustrative": true
+          }
+        },
+        {
+          "title": "Phantom Blade Zero",
+          "emoji": "🎮",
+          "createdAt": "2026-09-08T19:33:28Z",
+          "targetDate": "2026-10-29T02:00:00Z",
+          "repeatMode": "none",
+          "timeMode": "absolute",
+          "timeZone": "UTC",
+          "verification": {
+            "precision": "time",
+            "checkedOn": "2026-09-08",
+            "sourceURL": "https://www.playstation.com/en-us/games/phantom-blade-zero/",
+            "notes": "PlayStation US and Japanese storefronts list 02:00 UTC. Berlin is already on standard time: 03:00 CET.",
+            "targetDate": "2026-10-29T02:00:00Z"
+          },
+          "imageURL": "https://cdn2.steamgriddb.com/grid/c2ca23c951caaa036189141224933bb8.png",
+          "imageScale": 1,
+          "imageOffsetX": 0,
+          "imageOffsetY": 0,
+          "artworkSource": {
+            "provider": "SteamGridDB",
+            "url": "https://www.steamgriddb.com/grid/679502",
+            "author": "r_dsgnd"
+          }
+        },
+        {
+          "title": "The Legend of Zelda: Ocarina of Time Remake",
+          "emoji": "🎮",
+          "createdAt": "2026-09-08T19:33:28Z",
+          "targetDate": "2026-11-05T00:00:00",
+          "repeatMode": "none",
+          "timeMode": "local",
+          "timeZone": "Floating",
+          "verification": {
+            "precision": "date",
+            "checkedOn": "2026-09-08",
+            "sourceURL": "https://www.nintendo.com/us/whatsnew/the-legend-of-zelda-40th-anniversary-celebration-revealed-in-new-nintendo-direct-presentation/",
+            "notes": "Switch 2 release. Official title: The Legend of Zelda: Ocarina of Time. Exact regional unlock times are not confirmed.",
+            "targetDate": "2026-11-05T00:00:00"
+          },
+          "imageURL": "https://cdn2.steamgriddb.com/grid/9835aeafafef8ac7d14a0cdd9784460a.png",
+          "imageScale": 1,
+          "imageOffsetX": 0,
+          "imageOffsetY": 0,
+          "artworkSource": {
+            "provider": "SteamGridDB",
+            "url": "https://www.steamgriddb.com/grid/837745",
+            "author": "natsuko"
+          }
+        },
+        {
           "title": "GTA VI",
           "emoji": "🎮️",
           "createdAt": "2023-12-05T16:08:00",
@@ -70,7 +381,14 @@
           "imageScale": 1,
           "imageOffsetY": -0.1,
           "imageOffsetX": 0,
-          "timeZone": "Floating"
+          "timeZone": "Floating",
+          "verification": {
+            "precision": "date",
+            "checkedOn": "2026-09-08",
+            "sourceURL": "https://www.rockstargames.com/VI",
+            "notes": "Grand Theft Auto VI release date. Regional storefront unlocks differ; this entry marks the release date.",
+            "targetDate": "2026-11-19T00:00:00"
+          }
         },
         {
           "title": "Fable",
@@ -79,28 +397,205 @@
           "targetDate": "2027-02-23T00:00:00",
           "repeatMode": "none",
           "timeMode": "local",
-          "imageURL": "https://image.api.playstation.com/vulcan/ap/rnd/202601/1616/2cb1014087fe0a3600616dbb52f89317a5b527a16442c5c9.jpg",
-          "imageScale": 1.54,
-          "imageOffsetY": -0.21,
-          "imageOffsetX": 0
+          "imageURL": "https://cdn2.steamgriddb.com/grid/3dc9bce73f19e1d7f6bc6dd7f5241fd3.png",
+          "imageScale": 1,
+          "imageOffsetY": 0,
+          "imageOffsetX": 0,
+          "timeZone": "Floating",
+          "verification": {
+            "precision": "date",
+            "checkedOn": "2026-09-08",
+            "sourceURL": "https://news.xbox.com/en-us/2026/06/10/fable-living-population-details-explained-xbox-games-showcase-2026/",
+            "notes": "Standard release date. Premium early access starts February 18. Exact unlock time is not confirmed.",
+            "targetDate": "2027-02-23T00:00:00"
+          },
+          "artworkSource": {
+            "provider": "SteamGridDB",
+            "url": "https://www.steamgriddb.com/grid/706142",
+            "author": "r_dsgnd"
+          }
+        },
+        {
+          "title": "Final Fantasy VII Revelation",
+          "emoji": "🎮",
+          "createdAt": "2026-09-08T19:33:28Z",
+          "targetDate": "2027-04-08T00:00:00",
+          "repeatMode": "none",
+          "timeMode": "local",
+          "timeZone": "Floating",
+          "verification": {
+            "precision": "date",
+            "checkedOn": "2026-09-08",
+            "sourceURL": "https://na.store.square-enix-games.com/final-fantasy-vii-revelation",
+            "notes": "Release date confirmed. Console and PC unlock times have not been verified; midnight is a date marker.",
+            "targetDate": "2027-04-08T00:00:00"
+          },
+          "imageURL": "https://cdn2.steamgriddb.com/grid/eb4ccc62c6742d69211cdb40dacd84f9.png",
+          "imageScale": 1,
+          "imageOffsetX": 0,
+          "imageOffsetY": 0,
+          "artworkSource": {
+            "provider": "SteamGridDB",
+            "url": "https://www.steamgriddb.com/grid/799403",
+            "author": "paintasketch"
+          }
         }
       ],
       "imageURL": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5Nzg0MTN8MHwxfHNlYXJjaHw2fHxHYW1pbmd8ZW58MHx8fHwxNzgzOTUxNjc3fDA&ixlib=rb-4.1.0&q=80&w=1080",
       "unsplashAuthorName": "Lorenzo Herrera",
       "unsplashProfileURL": "https://unsplash.com/@lorenzoherrera?utm_source=Glassdays&utm_medium=referral"
+    },
+    {
+      "title": "Tech & gaming",
+      "emoji": "📡",
+      "presets": [
+        {
+          "title": "Nintendo Direct September 2026",
+          "emoji": "📡",
+          "createdAt": "2026-09-08T19:33:28Z",
+          "targetDate": "2026-09-09T14:00:00Z",
+          "repeatMode": "none",
+          "timeMode": "absolute",
+          "timeZone": "America/Los_Angeles",
+          "verification": {
+            "precision": "time",
+            "checkedOn": "2026-09-08",
+            "sourceURL": "https://www.nintendo.com/us/nintendo-direct/9-9-2026/",
+            "notes": "Broadcast starts 07:00 PDT / 10:00 EDT / 16:00 CEST.",
+            "targetDate": "2026-09-09T14:00:00Z"
+          },
+          "imageURL": "https://images.unsplash.com/photo-1612036781124-847f8939b154?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5Nzg0MTN8MHwxfHNlYXJjaHwxfHxuaW50ZW5kbyUyMHN3aXRjaHxlbnwwfHx8fDE3ODg4OTU0NTl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+          "imageScale": 1,
+          "imageOffsetX": 0,
+          "imageOffsetY": 0,
+          "unsplashAuthorName": "Erik Mclean",
+          "unsplashProfileURL": "https://unsplash.com/@introspectivedsgn?utm_source=Glassdays&utm_medium=referral",
+          "artworkSource": {
+            "provider": "Unsplash",
+            "url": "https://unsplash.com/photos/black-and-red-nintendo-switch-EdUYo2Y435s",
+            "photoId": "EdUYo2Y435s",
+            "description": "black and red nintendo switch",
+            "illustrative": true
+          }
+        },
+        {
+          "title": "Meta Connect 2026",
+          "emoji": "📡",
+          "createdAt": "2026-09-08T19:33:28Z",
+          "targetDate": "2026-09-23T23:00:00Z",
+          "repeatMode": "none",
+          "timeMode": "absolute",
+          "timeZone": "America/Los_Angeles",
+          "verification": {
+            "precision": "time",
+            "checkedOn": "2026-09-08",
+            "sourceURL": "https://www.meta.com/en-gb/connect/agenda/",
+            "notes": "Opening keynote: September 23 at 16:00 PDT. In Berlin that is September 24 at 01:00 CEST.",
+            "targetDate": "2026-09-23T23:00:00Z"
+          },
+          "imageURL": "https://images.unsplash.com/photo-1622979135225-d2ba269cf1ac?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5Nzg0MTN8MHwxfHNlYXJjaHwyfHx2aXJ0dWFsJTIwcmVhbGl0eSUyMGhlYWRzZXR8ZW58MHx8fHwxNzg4ODk1NDU5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+          "imageScale": 1,
+          "imageOffsetX": 0,
+          "imageOffsetY": 0,
+          "unsplashAuthorName": "Remy Gieling",
+          "unsplashProfileURL": "https://unsplash.com/@gieling?utm_source=Glassdays&utm_medium=referral",
+          "artworkSource": {
+            "provider": "Unsplash",
+            "url": "https://unsplash.com/photos/pink-and-white-vr-goggles-Zf0mPf4lG-U",
+            "photoId": "Zf0mPf4lG-U",
+            "description": "Oculus Quest 2 VR headset",
+            "illustrative": true
+          }
+        },
+        {
+          "title": "The Game Awards 2026",
+          "emoji": "📡",
+          "createdAt": "2026-09-08T19:33:28Z",
+          "targetDate": "2026-12-10T00:00:00",
+          "repeatMode": "none",
+          "timeMode": "local",
+          "timeZone": "Floating",
+          "verification": {
+            "precision": "date",
+            "checkedOn": "2026-09-08",
+            "sourceURL": "https://thegameawards.com/news/tga-returns-december-10-2026",
+            "notes": "December 10 is the announced Los Angeles event date. Start time is unannounced; the broadcast may fall on December 11 in Europe. Midnight is only a placeholder.",
+            "targetDate": "2026-12-10T00:00:00"
+          },
+          "imageURL": "https://images.unsplash.com/photo-1764874298962-ac0c84307fc0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5Nzg0MTN8MHwxfHNlYXJjaHwzfHxhd2FyZHMlMjBzdGFnZXxlbnwwfHx8fDE3ODg4OTU0NjB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+          "imageScale": 1,
+          "imageOffsetX": 0,
+          "imageOffsetY": 0,
+          "unsplashAuthorName": "Wesley Tingey",
+          "unsplashProfileURL": "https://unsplash.com/@wesleyphotography?utm_source=Glassdays&utm_medium=referral",
+          "artworkSource": {
+            "provider": "Unsplash",
+            "url": "https://unsplash.com/photos/several-clear-statuettes-stand-in-a-row-shsJnMCkvhY",
+            "photoId": "shsJnMCkvhY",
+            "description": "Several clear statuettes stand in a row",
+            "illustrative": true
+          }
+        },
+        {
+          "title": "CES 2027",
+          "emoji": "📡",
+          "createdAt": "2026-09-08T19:33:28Z",
+          "targetDate": "2027-01-06T18:00:00Z",
+          "repeatMode": "none",
+          "timeMode": "absolute",
+          "timeZone": "America/Los_Angeles",
+          "verification": {
+            "precision": "time",
+            "checkedOn": "2026-09-08",
+            "sourceURL": "https://www.ces.tech/plan-your-visit/dates-and-hours/",
+            "notes": "Exhibit opening: January 6 at 10:00 PST / 19:00 CET. CES runs January 6–9; conferences and media sessions have separate hours.",
+            "targetDate": "2027-01-06T18:00:00Z"
+          },
+          "imageURL": "https://images.unsplash.com/photo-1581351721010-8cf859cb14a4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5Nzg0MTN8MHwxfHNlYXJjaHwxfHxsYXMlMjB2ZWdhcyUyMGNvbnZlbnRpb258ZW58MHx8fHwxNzg4ODk1NDYwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+          "imageScale": 1,
+          "imageOffsetX": 0,
+          "imageOffsetY": 0,
+          "unsplashAuthorName": "Julian Paefgen",
+          "unsplashProfileURL": "https://unsplash.com/@julianpaefgen?utm_source=Glassdays&utm_medium=referral",
+          "artworkSource": {
+            "provider": "Unsplash",
+            "url": "https://unsplash.com/photos/city-with-lights-turned-on-during-night-time-uxU_jyu9e7U",
+            "photoId": "uxU_jyu9e7U",
+            "description": "city with lights turned on during night time",
+            "illustrative": true
+          }
+        }
+      ],
+      "imageURL": "https://images.unsplash.com/photo-1612036781124-847f8939b154?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5Nzg0MTN8MHwxfHNlYXJjaHwxfHxuaW50ZW5kbyUyMHN3aXRjaHxlbnwwfHx8fDE3ODg4OTU0NTl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "unsplashAuthorName": "Erik Mclean",
+      "unsplashProfileURL": "https://unsplash.com/@introspectivedsgn?utm_source=Glassdays&utm_medium=referral",
+      "artworkSource": {
+        "provider": "Unsplash",
+        "url": "https://unsplash.com/photos/black-and-red-nintendo-switch-EdUYo2Y435s",
+        "photoId": "EdUYo2Y435s",
+        "description": "black and red nintendo switch",
+        "illustrative": true
+      }
     }
   ],
   "standaloneEvents": [
     {
       "title": "Apple Event",
       "emoji": "📱",
-      "createdAt": "2025-09-09T09:00:00",
+      "createdAt": "2025-09-09T16:00:00Z",
       "targetDate": "2026-09-09T17:00:00Z",
       "repeatMode": "none",
       "timeZone": "America/Los_Angeles",
       "imageURL": "https://images.unsplash.com/photo-1718964894957-c2eef52722da?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5Nzg0MTN8MHwxfHNlYXJjaHwyfHxBcHBsZSUyMFBhcmt8ZW58MHx8fHwxNzg2Nzg3MTMwfDA&ixlib=rb-4.1.0&q=80&w=1080",
       "unsplashAuthorName": "Artem Horovenko",
-      "timeMode": "absolute"
+      "timeMode": "absolute",
+      "verification": {
+        "precision": "time",
+        "checkedOn": "2026-09-08",
+        "sourceURL": "https://developer.apple.com/news/?id=s6spdug0",
+        "notes": "Broadcast starts 10:00 PDT / 19:00 CEST. Kept the existing event title to preserve saved-event identity.",
+        "targetDate": "2026-09-09T17:00:00Z"
+      }
     }
   ],
   "schemaVersion": 2
