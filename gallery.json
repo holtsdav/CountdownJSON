@@ -97,36 +97,6 @@
           "unsplashProfileURL": "https://unsplash.com/@mobography?utm_source=Glassdays&utm_medium=referral"
         },
         {
-          "title": "New Year",
-          "emoji": "🎆",
-          "createdAt": "2026-09-08T19:33:28Z",
-          "targetDate": "2027-01-01T00:00:00",
-          "repeatMode": "yearly",
-          "timeMode": "local",
-          "timeZone": "Floating",
-          "verification": {
-            "precision": "date",
-            "checkedOn": "2026-09-08",
-            "sourceURL": "https://www.timeanddate.com/holidays/common/new-year-day",
-            "notes": "New Year’s Day, January 1. Midnight arrives separately in each viewer’s local time zone.",
-            "targetDate": "2027-01-01T00:00:00"
-          },
-          "imageURL": "https://images.unsplash.com/photo-1560986752-2e31d9507413?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5Nzg0MTN8MHwxfHNlYXJjaHwxfHxuZXclMjB5ZWFyJTIwZmlyZXdvcmtzfGVufDB8fHx8MTc4ODg5NTQ2MHww&ixlib=rb-4.1.0&q=80&w=1080",
-          "imageScale": 1,
-          "imageOffsetX": 0,
-          "imageOffsetY": 0,
-          "unsplashAuthorName": "DESIGNECOLOGIST",
-          "unsplashProfileURL": "https://unsplash.com/@designecologist?utm_source=Glassdays&utm_medium=referral",
-          "artworkSource": {
-            "provider": "Unsplash",
-            "url": "https://unsplash.com/photos/yellow-and-red-fireworks-5mj5jLhYWpY",
-            "photoId": "5mj5jLhYWpY",
-            "description": "yellow and red fireworks",
-            "illustrative": true,
-            "thumbnailURL": "https://images.unsplash.com/photo-1560986752-2e31d9507413?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5Nzg0MTN8MHwxfHNlYXJjaHwxfHxuZXclMjB5ZWFyJTIwZmlyZXdvcmtzfGVufDB8fHx8MTc4ODg5NTQ2MHww&ixlib=rb-4.1.0&q=80&w=400"
-          }
-        },
-        {
           "title": "Valentine's Day",
           "emoji": "🌹",
           "createdAt": "2026-09-08T19:33:28Z",
