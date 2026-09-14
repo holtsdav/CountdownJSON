@@ -535,6 +535,19 @@
             "notes": "Broadcast starts 10:00 PDT / 19:00 CEST. Kept the existing event title to preserve saved-event identity.",
             "targetDate": "2026-09-09T17:00:00Z"
           }
+        },
+        {
+          "title": "iPhone 18 Pro Release",
+          "emoji": "📱",
+          "createdAt": "2026-09-09T17:00:00Z",
+          "targetDate": "2026-09-18T00:00:00",
+          "repeatMode": "none",
+          "timeMode": "local",
+          "timeZone": "Floating",
+          "verification": {
+            "precision": "date"
+          },
+          "imageURL": "https://holtsdav.github.io/CountdownJSON/assets/images/events/img-2209-mu0va6y5.webp"
         }
       ],
       "imageURL": "https://images.unsplash.com/photo-1686458900095-c0aad44dfc2a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5Nzg0MTN8MHwxfHNlYXJjaHwxN3x8QXBwbGUlMjBQYXJrfGVufDB8fHx8MTc4ODg5ODE0NXww&ixlib=rb-4.1.0&q=80&w=1080",
