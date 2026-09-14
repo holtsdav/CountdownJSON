@@ -136,32 +136,6 @@
       "emoji": "🕹️",
       "presets": [
         {
-          "title": "Marvel's Wolverine",
-          "emoji": "🎮",
-          "createdAt": "2026-09-08T19:33:28Z",
-          "targetDate": "2026-09-15T00:00:00",
-          "repeatMode": "none",
-          "timeMode": "local",
-          "timeZone": "Floating",
-          "verification": {
-            "precision": "date",
-            "checkedOn": "2026-09-08",
-            "sourceURL": "https://www.playstation.com/en-us/games/marvels-wolverine/",
-            "notes": "PS5 release date. Unlock time may depend on the regional storefront; midnight here is a date marker.",
-            "targetDate": "2026-09-15T00:00:00"
-          },
-          "imageURL": "https://cdn2.steamgriddb.com/grid/2a5d44fc98c59d28a4dfa7fe0db9efae.png",
-          "imageScale": 1.44,
-          "imageOffsetX": 0,
-          "imageOffsetY": 0,
-          "artworkSource": {
-            "provider": "SteamGridDB",
-            "url": "https://www.steamgriddb.com/grid/658855",
-            "thumbnailURL": "https://cdn2.steamgriddb.com/thumb/2a5d44fc98c59d28a4dfa7fe0db9efae.jpg",
-            "author": "r_dsgnd"
-          }
-        },
-        {
           "title": "Silent Hill: Townfall",
           "emoji": "🎮",
           "createdAt": "2026-09-08T19:33:28Z",
@@ -419,26 +393,6 @@
       "emoji": "📡",
       "presets": [
         {
-          "title": "Nintendo Direct",
-          "emoji": "📡",
-          "createdAt": "2026-09-08T19:33:28Z",
-          "targetDate": "2026-09-09T14:00:00Z",
-          "repeatMode": "none",
-          "timeMode": "absolute",
-          "timeZone": "America/Los_Angeles",
-          "verification": {
-            "precision": "time",
-            "checkedOn": "2026-09-08",
-            "sourceURL": "https://www.nintendo.com/us/nintendo-direct/9-9-2026/",
-            "notes": "Broadcast starts 07:00 PDT / 10:00 EDT / 16:00 CEST.",
-            "targetDate": "2026-09-09T14:00:00Z"
-          },
-          "imageURL": "https://i.pinimg.com/736x/f4/17/f2/f417f2197cee8cf7db2120edfb61a617.jpg",
-          "imageScale": 1.18,
-          "imageOffsetX": 0,
-          "imageOffsetY": -0.08
-        },
-        {
           "title": "Meta Connect",
           "emoji": "📡",
           "createdAt": "2026-09-08T19:33:28Z",
@@ -516,24 +470,6 @@
             "description": "city with lights turned on during night time",
             "illustrative": true,
             "thumbnailURL": "https://images.unsplash.com/photo-1581351721010-8cf859cb14a4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5Nzg0MTN8MHwxfHNlYXJjaHwxfHxsYXMlMjB2ZWdhcyUyMGNvbnZlbnRpb258ZW58MHx8fHwxNzg4ODk1NDYwfDA&ixlib=rb-4.1.0&q=80&w=400"
-          }
-        },
-        {
-          "title": "Apple Event",
-          "emoji": "📱",
-          "createdAt": "2025-09-09T16:00:00Z",
-          "targetDate": "2026-09-09T17:00:00Z",
-          "repeatMode": "none",
-          "timeZone": "America/Los_Angeles",
-          "imageURL": "https://images.unsplash.com/photo-1718964894957-c2eef52722da?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5Nzg0MTN8MHwxfHNlYXJjaHwyfHxBcHBsZSUyMFBhcmt8ZW58MHx8fHwxNzg2Nzg3MTMwfDA&ixlib=rb-4.1.0&q=80&w=1080",
-          "unsplashAuthorName": "Artem Horovenko",
-          "timeMode": "absolute",
-          "verification": {
-            "precision": "time",
-            "checkedOn": "2026-09-08",
-            "sourceURL": "https://developer.apple.com/news/?id=s6spdug0",
-            "notes": "Broadcast starts 10:00 PDT / 19:00 CEST. Kept the existing event title to preserve saved-event identity.",
-            "targetDate": "2026-09-09T17:00:00Z"
           }
         },
         {
