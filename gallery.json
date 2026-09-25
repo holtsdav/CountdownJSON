@@ -136,78 +136,6 @@
       "emoji": "🕹️",
       "presets": [
         {
-          "title": "Silent Hill: Townfall",
-          "emoji": "🎮",
-          "createdAt": "2026-09-08T19:33:28Z",
-          "targetDate": "2026-09-24T00:00:00",
-          "repeatMode": "none",
-          "timeMode": "local",
-          "timeZone": "Floating",
-          "verification": {
-            "precision": "date",
-            "checkedOn": "2026-09-08",
-            "sourceURL": "https://www.konami.com/games/eu/en/topics/19146/",
-            "notes": "Standard release. PS5 regional storefronts show local midnight; PC timing may differ. Not one worldwide instant.",
-            "targetDate": "2026-09-24T00:00:00"
-          },
-          "imageURL": "https://cdn2.steamgriddb.com/grid/f12a65c605e909b470b64fe3c790a126.png",
-          "imageScale": 1.27,
-          "imageOffsetX": 0,
-          "imageOffsetY": -0.13,
-          "artworkSource": {
-            "provider": "SteamGridDB",
-            "url": "https://www.steamgriddb.com/grid/786826",
-            "thumbnailURL": "https://cdn2.steamgriddb.com/thumb/f12a65c605e909b470b64fe3c790a126.jpg",
-            "author": "r_dsgnd"
-          }
-        },
-        {
-          "title": "Control Resonant",
-          "emoji": "🎮",
-          "createdAt": "2026-09-08T19:33:28Z",
-          "targetDate": "2026-09-24T14:00:00Z",
-          "repeatMode": "none",
-          "timeMode": "absolute",
-          "timeZone": "UTC",
-          "verification": {
-            "precision": "time",
-            "checkedOn": "2026-09-08",
-            "sourceURL": "https://store.playstation.com/en-us/product/EP5291-PPSA34547_00-0210080241603648/",
-            "notes": "PlayStation unlock listing: 14:00 UTC, also shown by the Japanese PlayStation listing. This is 16:00 in Berlin.",
-            "targetDate": "2026-09-24T14:00:00Z"
-          },
-          "imageURL": "https://cdn2.steamgriddb.com/grid/e5e1a6746f8f0185e8141f23820e286c.png",
-          "imageScale": 1.17,
-          "imageOffsetX": 0,
-          "imageOffsetY": -0.11,
-          "artworkSource": {
-            "provider": "SteamGridDB",
-            "url": "https://www.steamgriddb.com/grid/678612",
-            "thumbnailURL": "https://cdn2.steamgriddb.com/thumb/e5e1a6746f8f0185e8141f23820e286c.jpg",
-            "author": "r_dsgnd"
-          }
-        },
-        {
-          "title": "EA SPORTS FC 27",
-          "emoji": "🎮",
-          "createdAt": "2026-09-08T19:33:28Z",
-          "targetDate": "2026-09-25T00:00:00",
-          "repeatMode": "none",
-          "timeMode": "local",
-          "timeZone": "Floating",
-          "verification": {
-            "precision": "date",
-            "checkedOn": "2026-09-08",
-            "sourceURL": "https://www.ea.com/games/ea-sports-fc/fc-27/news/fc-27-editions-and-release-dates",
-            "notes": "Standard Edition release date. Early-access editions differ. An exact universal unlock time is not confirmed.",
-            "targetDate": "2026-09-25T00:00:00"
-          },
-          "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-rX9NMSFuZTa7YXep2ZBIERGzr1YIOgHMmTx-9gj1dQ&s",
-          "imageScale": 1.22,
-          "imageOffsetX": 0,
-          "imageOffsetY": 0.07
-        },
-        {
           "title": "Gears of War: E-Day",
           "emoji": "🎮",
           "createdAt": "2026-09-08T19:33:28Z",
@@ -392,26 +320,6 @@
       "title": "Tech Events",
       "emoji": "📡",
       "presets": [
-        {
-          "title": "Meta Connect",
-          "emoji": "📡",
-          "createdAt": "2026-09-08T19:33:28Z",
-          "targetDate": "2026-09-23T23:00:00Z",
-          "repeatMode": "none",
-          "timeMode": "absolute",
-          "timeZone": "America/Los_Angeles",
-          "verification": {
-            "precision": "time",
-            "checkedOn": "2026-09-08",
-            "sourceURL": "https://www.meta.com/en-gb/connect/agenda/",
-            "notes": "Opening keynote: September 23 at 16:00 PDT. In Berlin that is September 24 at 01:00 CEST.",
-            "targetDate": "2026-09-23T23:00:00Z"
-          },
-          "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXkmk2Cg3cpHe5-UWJI7bm7cdjT0TVZ8F-z557q0geHs78ulzxV0AViOS0&s=10",
-          "imageScale": 1,
-          "imageOffsetX": 0,
-          "imageOffsetY": -0.11
-        },
         {
           "title": "The Game Awards",
           "emoji": "📡",
