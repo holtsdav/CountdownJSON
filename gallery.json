@@ -381,24 +381,28 @@
           }
         },
         {
-          "title": "OpenAi DevDay",
-          "emoji": "🤖",
-          "createdAt": "2026-09-27T21:26:14.632Z",
-          "targetDate": "2026-09-29T17:00:00Z",
+          "title": "Apple October Event",
+          "emoji": "🍎",
+          "createdAt": "2026-10-01T00:01:20.090Z",
+          "targetDate": "2026-10-13T00:00:00",
           "repeatMode": "none",
-          "timeMode": "absolute",
-          "timeZone": "Europe/Berlin",
-          "imageURL": "https://images.unsplash.com/photo-1737894543924-15e1ff7adbdb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5Nzg0MTN8MHwxfHNlYXJjaHw2fHxPcGVuYWl8ZW58MHx8fHwxNzkwNTQ0NTEwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+          "timeMode": "local",
+          "timeZone": "Floating",
+          "verification": {
+            "precision": "date"
+          },
+          "imageURL": "https://images.unsplash.com/photo-1783196720665-5aba623615b8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5Nzg0MTN8MHwxfHNlYXJjaHwxNXx8QXBwbGUlMjBwYXJrfGVufDB8fHx8MTc5MDgxMzAwMHww&ixlib=rb-4.1.0&q=80&w=1080",
           "artworkSource": {
             "provider": "Unsplash",
-            "url": "https://unsplash.com/photos/a-white-square-with-a-knot-on-it-uDH-gOm6eA4",
-            "photoId": "uDH-gOm6eA4",
-            "thumbnailURL": "https://images.unsplash.com/photo-1737894543924-15e1ff7adbdb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5Nzg0MTN8MHwxfHNlYXJjaHw2fHxPcGVuYWl8ZW58MHx8fHwxNzkwNTQ0NTEwfDA&ixlib=rb-4.1.0&q=80&w=400"
+            "url": "https://unsplash.com/photos/sunny-green-field-with-people-and-a-large-rainbow-arch-fIutV9_P-ZM",
+            "photoId": "fIutV9_P-ZM",
+            "thumbnailURL": "https://images.unsplash.com/photo-1783196720665-5aba623615b8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5Nzg0MTN8MHwxfHNlYXJjaHwxNXx8QXBwbGUlMjBwYXJrfGVufDB8fHx8MTc5MDgxMzAwMHww&ixlib=rb-4.1.0&q=80&w=400"
           },
-          "unsplashAuthorName": "Dima Solomin",
-          "unsplashProfileURL": "https://unsplash.com/@solomin?utm_source=Glassdays&utm_medium=referral",
-          "imageScale": 1.08,
-          "imageOffsetY": -0.03
+          "unsplashAuthorName": "David Klein",
+          "unsplashProfileURL": "https://unsplash.com/@diklein?utm_source=Glassdays&utm_medium=referral",
+          "imageScale": 1.87,
+          "imageOffsetY": -0.12,
+          "imageOffsetX": -0.01
         }
       ],
       "imageURL": "https://images.unsplash.com/photo-1686458900095-c0aad44dfc2a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5Nzg0MTN8MHwxfHNlYXJjaHwxN3x8QXBwbGUlMjBQYXJrfGVufDB8fHx8MTc4ODg5ODE0NXww&ixlib=rb-4.1.0&q=80&w=1080",
