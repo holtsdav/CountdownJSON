@@ -136,32 +136,6 @@
       "emoji": "🕹️",
       "presets": [
         {
-          "title": "Gears of War: E-Day",
-          "emoji": "🎮",
-          "createdAt": "2026-09-08T19:33:28Z",
-          "targetDate": "2026-10-06T00:00:00",
-          "repeatMode": "none",
-          "timeMode": "local",
-          "timeZone": "Floating",
-          "verification": {
-            "precision": "date",
-            "checkedOn": "2026-09-08",
-            "sourceURL": "https://news.xbox.com/en-us/2026/06/07/gears-of-war-eday-direct-xbox-games-showcase-2026/",
-            "notes": "Standard release date; premium early access starts October 1. Exact standard unlock time is not confirmed.",
-            "targetDate": "2026-10-06T00:00:00"
-          },
-          "imageURL": "https://cdn2.steamgriddb.com/grid/13b36cbcb5256756a1025664b6d7fba1.png",
-          "imageScale": 1.28,
-          "imageOffsetX": 0,
-          "imageOffsetY": 0,
-          "artworkSource": {
-            "provider": "SteamGridDB",
-            "url": "https://www.steamgriddb.com/grid/791037",
-            "thumbnailURL": "https://cdn2.steamgriddb.com/thumb/13b36cbcb5256756a1025664b6d7fba1.jpg",
-            "author": "r_dsgnd"
-          }
-        },
-        {
           "title": "Call of Duty: Modern Warfare 4",
           "emoji": "🎮",
           "createdAt": "2026-09-08T19:33:28Z",
