@@ -369,6 +369,27 @@
           "imageScale": 1,
           "imageOffsetY": 0.03,
           "imageOffsetX": 0
+        },
+        {
+          "title": "Apple Mac Event",
+          "emoji": "🎯",
+          "createdAt": "2026-10-13T04:22:50.806Z",
+          "targetDate": "2026-11-27T00:00:00",
+          "repeatMode": "none",
+          "timeMode": "local",
+          "timeZone": "Floating",
+          "verification": {
+            "precision": "date"
+          },
+          "imageURL": "https://images.unsplash.com/photo-1454493246676-c0e063828dce?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5Nzg0MTN8MHwxfHNlYXJjaHwyMXx8QXBwbGUlMjBNYWN8ZW58MHx8fHwxNzkxODY1NDAwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+          "artworkSource": {
+            "provider": "Unsplash",
+            "url": "https://unsplash.com/photos/macintosh-machine-dc-I7GCibzs",
+            "photoId": "dc-I7GCibzs",
+            "thumbnailURL": "https://images.unsplash.com/photo-1454493246676-c0e063828dce?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5Nzg0MTN8MHwxfHNlYXJjaHwyMXx8QXBwbGUlMjBNYWN8ZW58MHx8fHwxNzkxODY1NDAwfDA&ixlib=rb-4.1.0&q=80&w=400"
+          },
+          "unsplashAuthorName": "Julian Hochgesang",
+          "unsplashProfileURL": "https://unsplash.com/@julianhochgesang?utm_source=Glassdays&utm_medium=referral"
         }
       ],
       "imageURL": "https://images.unsplash.com/photo-1686458900095-c0aad44dfc2a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5Nzg0MTN8MHwxfHNlYXJjaHwxN3x8QXBwbGUlMjBQYXJrfGVufDB8fHx8MTc4ODg5ODE0NXww&ixlib=rb-4.1.0&q=80&w=1080",
